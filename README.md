@@ -1,5 +1,7 @@
 # MiCard
 
+![MiCard](https://github.com/cytsuda/mi_card_flutter/blob/master/images/preview.jpg?raw=true)
+
 ## Objetivo do projeto
 
 Criar um Aplicativo Flutter do zero com uma interface simples e sem funcionalidades.
